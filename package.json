@@ -1,6 +1,6 @@
 {
   "name": "lego",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "\ud83d\ude80 Low-Tech Web-Components Made Lightweight & Future-Proof.",
   "main": "src/index.js",
   "scripts": {
